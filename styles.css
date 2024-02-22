@@ -151,3 +151,12 @@ section.action-call .sign-up-button {
 section div.container-action div:first-child, section.action-call .sign-up-button {
     font-weight: 600;
 }
+
+
+
+div.footer {
+    text-align: center;
+    color: #F9FAF8;
+    background-color: #1F2937;
+    padding: 30px;
+}
