@@ -129,3 +129,25 @@ section.quote div:last-child {
     font-size: 24px;
     font-weight: 600;
 }
+
+
+section.action-call {
+    background-color: #3882F6;
+    border-radius: 10px;
+    margin: 50px 100px;
+    padding: 40px 0;
+    display: flex;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+section.action-call .sign-up-button {
+    border: 1px solid #F9FAF8;
+    height: fit-content;
+}
+
+section div.container-action div:first-child, section.action-call .sign-up-button {
+    font-weight: 600;
+}
